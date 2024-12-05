@@ -90,3 +90,12 @@ If you have any queries or need some help in deployment, you may contact me here
 Made with 💖 by Anshuman Mahato
 </div>
 
+node_modules/
+.parcel-cache/
+dist/
+.env
+<!-- *-safe.* -->
+temp/
+local/
+src/index.html
+src/pic.jpeg
